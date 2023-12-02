@@ -22,4 +22,4 @@ Deployment : Netlify
 **Mobile:**  React Native,Expo
 
 
-**Tools:** Git,Postman
+**Tools:** Git,Postman,Figma
