@@ -1,7 +1,7 @@
 
 # Hello 👋
 
-An experienced front-end developer passionate about designing and maintaining websites and mobile apps using modern technologies.
+Experienced front-end developer passionate about designing and maintaining websites and mobile apps using modern technologies.
 
 ## 🛠 Skills
 
