@@ -1,7 +1,7 @@
 
 # Hello 👋
 
-I am a Senior Full Stack Developer with 5 years of experience, skilled in a variety of technologies including React, React Native/Expo ,Typescript and NodeJS for creating backend services using REST APIs and GraphQL.
+I am a Senior Senior Front-end Developer with 5 years of experience, skilled in a variety of technologies including React, React Native/Expo ,Typescript and NodeJS for creating backend services using REST APIs and GraphQL.
 My expertise with these tools enables me to efficiently build and manage both the front-end and back-end components of web and mobile applications across various tools and frameworks within the JavaScript ecosystem.
 ## 🛠 Skills
 
