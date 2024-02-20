@@ -1,8 +1,7 @@
 
 # Hello 👋
 
-I am a Senior Front-end Developer skilled in a variety of technologies including React, React Native/Expo ,Typescript and NodeJS for creating backend services using REST APIs and GraphQL.
-My expertise with these tools enables me to efficiently build and manage both the front-end and back-end components of web and mobile applications across various tools and frameworks within the JavaScript ecosystem.
+
 ## 🛠 Skills
 
 🎨 **Frontend:**
